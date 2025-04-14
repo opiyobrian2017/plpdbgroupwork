@@ -1,6 +1,8 @@
+This submission results from a real-time video conference held on Google Meet to discuss and develop solutions for the database group assignment.
 GROUP MEMBERS
 Brian Opiyo - opiyobrian2017@gmail.com
 Alfonce Kipkemoi Ng'etich - alfoncekngetich@gmail.com
+mtselapedi5@gmail.com
 
 
 Database Design & Programming with SQL 
